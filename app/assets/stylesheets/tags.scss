@@ -1,0 +1,32 @@
+// Place all the styles related to the tags controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.tag_listing {
+
+  position: absolute;
+top: 126px;
+right: 20px;
+display: inline-block;
+padding: 4px 11px;
+font-size: .9em;
+-moz-box-shadow: rgba(255, 255, 255, 0.4) 0 -1px inset;
+-webkit-box-shadow: rgba(255, 255, 255, 0.4) 0 -1px inset;
+-o-box-shadow: rgba(255, 255, 255, 0.4) 0 -1px inset;
+box-shadow: rgba(255, 255, 255, 0.4) 0 -1px inset;
+-moz-border-radius: 1.2em;
+-webkit-border-radius: 1.2em;
+-o-border-radius: 1.2em;
+-ms-border-radius: 1.2em;
+-khtml-border-radius: 1.2em;
+border-radius: 1.2em;
+background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffffff), color-stop(100%, #cccccc));
+background-image: -moz-linear-gradient(#ffffff, #cccccc);
+background-image: linear-gradient(#ffffff, #cccccc);
+text-shadow: #fff 0 1px;
+color: #999999;
+
+text-decoration: none;
+
+
+}
